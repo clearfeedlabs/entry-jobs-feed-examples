@@ -1,0 +1,28 @@
+{
+  "earlyCareerTypes": [
+    "internship"
+  ],
+  "locations": [
+    "US",
+    "United States",
+    "remote"
+  ],
+  "addH1bDetails": true,
+  "maxJobsPerCompany": 3,
+  "maxItems": 40,
+  "useStudentPreset": true,
+  "includeNonEarlyCareer": false,
+  "titleSignalsOnly": false,
+  "sponsorFilter": "any",
+  "remoteOnly": false,
+  "postedSinceDays": 0,
+  "incremental": false,
+  "emitUnchanged": false,
+  "reportRemoved": true,
+  "includeDescription": true,
+  "redactContacts": true,
+  "dedupeAcrossSources": true,
+  "probeUnknownAts": true,
+  "minRequestIntervalMs": 1000,
+  "companyConcurrency": 4
+}

@@ -1,0 +1,49 @@
+{
+  "atsJobId": "8194291",
+  "ats": "greenhouse",
+  "company": "Stripe",
+  "companySlug": "stripe",
+  "title": "Data Analyst, Intern",
+  "department": "5112 General University",
+  "team": null,
+  "locations": [
+    {
+      "raw": "New York, Seattle, South San Francisco HQ",
+      "city": "Seattle",
+      "region": "New York",
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "workplaceType": null,
+  "isRemote": false,
+  "employmentType": null,
+  "salary": {
+    "min": null,
+    "max": null,
+    "currency": null,
+    "period": null,
+    "source": null,
+    "raw": null
+  },
+  "descriptionHtml": "<h2>Who we are</h2>\n<h3>About Stripe</h3>\n<p>Stripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, reth...",
+  "applyUrl": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "jobUrl": "https://stripe.com/jobs/search?gh_jid=8194291",
+  "postedAt": "2026-10-01T15:05:29.000Z",
+  "updatedAt": "2026-10-29T14:42:09.000Z",
+  "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+  "id": "greenhouse:stripe:8194291",
+  "seniority": "intern",
+  "descriptionText": "Who we are\n\nAbout Stripe\n\nStripe is a technology company focused on improving the conditions for economic growth and prosperity. We build programmable financial infrastructure, rethinking from first p...",
+  "contentHash": "5cf898a6abd34c96",
+  "scrapedAt": "2026-11-02T04:05:43.313Z",
+  "earlyCareerType": "internship",
+  "earlyCareerConfidence": "high",
+  "earlyCareerEvidence": "title: \"Intern\"",
+  "season": "Summer 2028",
+  "graduationYears": [
+    2027
+  ],
+  "yearsExperienceMax": null,
+  "sponsorshipStatement": "not-mentioned"
+}
