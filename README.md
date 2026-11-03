@@ -33,6 +33,12 @@ See `sample-output.json` for one trimmed record.
 ## Pricing
 Pay per result: **$2.50 per 1,000 jobs**, with no subscription. The [Store page](https://apify.com/clearfeedlabs/entry-jobs-feed) always shows current prices and every optional add-on event.
 
+## Related Clearfeed Labs Actors
+- [ATS Jobs Scraper API: Greenhouse, Lever, Ashby & Recruitee](https://apify.com/clearfeedlabs/ats-jobs-feed): live job postings from company ATS boards
+- [Grants.gov Scraper & Grant Finder API: NSF, NIH Fellowships](https://apify.com/clearfeedlabs/grant-fellowship-radar): federal grants and fellowships with deadlines
+- [SEC Form D Scraper: Startup Funding Leads Feed (EDGAR)](https://apify.com/clearfeedlabs/form-d-funding-feed): newly funded companies from SEC Form D
+- [All Clearfeed Labs Actors](https://apify.com/clearfeedlabs)
+
 ## FAQ
 **Is this data official?** Yes. It comes from the public source named above, and each record links back to it.
 **Do I need a login or proxy?** No. It uses documented public endpoints only.
